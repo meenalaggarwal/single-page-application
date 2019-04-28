@@ -15,4 +15,4 @@ The main libraries used here are:
 
 1. Run `npm install`
 2. Start server with `npm start` or `node server`
-3. Visit [http://localhost:3000/](http://localhost:3000/).
+3. Visit [http://localhost:3000/](http://localhost:3000/)[credentials: test/test].
