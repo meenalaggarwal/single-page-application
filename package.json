@@ -1,0 +1,13 @@
+{
+  "name": "single-page-application",
+  "version": "1.0.0",
+  "description": "This is a demo project shows how to build a Single Page Application without using a popular framework.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}

@@ -1,0 +1,49 @@
+.center-div {
+	border-right: 1px dotted rgb(34, 34, 34);
+}
+
+.welcome-box {
+	background-image: linear-gradient(rgb(228, 243, 255) 33%, rgba(228, 243, 255, 0.45098) 70%, rgba(125, 185, 232, 0) 100%);
+	border-radius: 10px;
+	padding: 20px 34px;
+	border: 1px solid #e6f3ff;
+	color: #2C4A58;
+	position: relative;
+	margin-left: 50px;
+}
+
+.logo {
+	padding-top: 10px;
+	color: #2C4A58;
+}
+
+.horizontal-line {
+	border-bottom:10px solid #008B8B;
+}
+
+.login-heading {
+	font-size: 20px;
+	line-height: 18px;
+	color: #1f4352;
+	margin-bottom:24px;
+	font-weight: 600;
+}
+
+.form input {
+	padding: 9px;
+	border:1px solid rgb(204, 204, 204);
+	border-radius: 4px;
+	background-color: #fff;
+	color:#333;
+	display: inline-block;
+	font-size:13px;
+	font-weight: 400;
+	height:38px;
+	margin-bottom: 24px;
+	margin-right:6px;
+	margin-top:0;
+	outline-color:rgb(51, 51, 51);
+	vertical-align: middle;
+	outline: none;
+
+}
